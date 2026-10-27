@@ -22,7 +22,11 @@ Master's coursework in AI and Data Science at Luleå University of Technology:
 | [**Customer churn prediction**](https://github.com/amerbarood/customer-churn-prediction) | E-commerce churn analysis and scikit-learn pipeline | 93% accuracy |
 | [**UCI ML benchmark**](https://github.com/amerbarood/uci-ml-benchmark) | LR, SVM, Random Forest and clustering across 23 datasets | Random Forest best on 12/19 |
 | [**Apple stock forecasting**](https://github.com/amerbarood/apple-stock-lstm-forecasting) | Next-day price prediction: LSTM vs BiLSTM vs GRU | LSTM RMSE 7.34 |
-| [**Deep learning labs**](https://github.com/amerbarood/deep-learning-labs) | CNNs, GPT from scratch, GANs, diffusion, captioning, DQN | 5 labs |
+| [**GANs and diffusion models**](https://github.com/amerbarood/gans-and-diffusion-models) | GANs, adversarial attacks, score-based diffusion with a cross-attention U-Net | Conditional digit generation |
+| [**GPT from scratch**](https://github.com/amerbarood/nlp-gpt-and-sentiment) | Character-level transformer on Shakespeare, plus a sentiment chatbot | Val. loss 1.53 |
+| [**Image captioning**](https://github.com/amerbarood/image-captioning-cnn-lstm) | VGG16 + LSTM caption generator on Flickr8k | Captions for unseen photos |
+| [**DQN on Atari Breakout**](https://github.com/amerbarood/dqn-atari-breakout) | Deep Q-learning with a six-run stability study | Best score 59 |
+| [**CNNs and transfer learning**](https://github.com/amerbarood/cnn-transfer-learning) | CIFAR-10 CNNs, AlexNet fine-tuning, MNIST → SVHN | 76% with fine-tuning |
 
 ## 🛠️ Tech stack
 
